@@ -62,8 +62,8 @@ This project presents an interactive Power BI dashboard analyzing online retail 
 
 ## 🔹 Tools Used
 
-* Power BI
-* Excel
+* Power BI(retail_dashboard.pbix)
+* Excel(Sample_Dataset.xlsx)
 
 ---
 
@@ -82,6 +82,6 @@ https://archive.ics.uci.edu/
 
 ---
 
-## 🔹 Author
+## 🔹 By
 
-Your Name
+Kirthika Lakshmi
