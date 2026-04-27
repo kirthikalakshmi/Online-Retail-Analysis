@@ -56,7 +56,7 @@ This project presents an interactive Power BI dashboard analyzing online retail 
 
 ## 🔹 Dashboard Preview
 
-![Dashboard](images/dashboard_overview.png)
+![Dashboard](Retail_DAshboard.png)
 
 ---
 
