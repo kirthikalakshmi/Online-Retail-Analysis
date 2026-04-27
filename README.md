@@ -62,9 +62,16 @@ This project presents an interactive Power BI dashboard analyzing online retail 
 
 ## 🔹 Tools Used
 
-* Power BI(retail_dashboard.pbix)
-* Excel(Sample_Dataset.xlsx)
+* Power BI
+* Excel
 
+---
+
+## 🔹 Project Files
+
+- 📊 [Download Power BI Dashboard](retail_dashboard.pbix)
+- 📁 [Download Dataset](Sample_Dataset.xlsx)
+  
 ---
 
 ## 🔹 Dataset Source
